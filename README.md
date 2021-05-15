@@ -3,16 +3,19 @@
 
 Welcome to my git page. I'm currently studing data science in The Bridge (Madrid).
 
-####Skills:
--Python 
--SQL
--Data Mining, Data cleaning
--Visualization
--Exploratory Data Analysis
--Web Scraping
--Machine Learning
--Deep Learning
--AWS
+#### Skills:
+  - Python 
+  - SQL
+  - Data Mining, Data cleaning
+  - Visualization
+  - Exploratory Data Analysis
+  - Web Scraping
+  - Machine Learning
+  - Deep Learning
+  - AWS
+
+
+***
 
 Contact or let me know any issue here:
 
