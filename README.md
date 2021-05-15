@@ -4,7 +4,7 @@
 Welcome to my git page. I'm currently studing data science in The Bridge (Madrid).
 
 #### Skills:
-  - Python 
+  - Python Cancel changes
   - SQL
   - Data Mining, Data cleaning
   - Visualization
@@ -16,8 +16,7 @@ Welcome to my git page. I'm currently studing data science in The Bridge (Madrid
 
 
 ***
-
-Contact or let me know any issue here:
+Contact me or let me know any issue here:
 
 * Alberto Lara
 [![LinkedIn][logo_LinkedIn]](https://www.linkedin.com/in/alarab/)
