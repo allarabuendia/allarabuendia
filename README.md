@@ -4,7 +4,7 @@
 Welcome to my git page. I'm currently studing data science in The Bridge (Madrid).
 
 #### Skills:
-  - Python Cancel changes
+  - Python 
   - SQL
   - Data Mining, Data cleaning
   - Visualization
