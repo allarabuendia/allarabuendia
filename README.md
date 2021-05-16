@@ -1,7 +1,7 @@
 #### Hi there 👋
 
 
-Welcome to my git page. I'm currently studing data science in The Bridge (Madrid).
+Welcome to my git page. I'm currently studing data science at The Bridge (Madrid).
 
 #### Skills:
   - Python 
