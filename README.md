@@ -8,6 +8,7 @@ Here you can find some of my projects. In this space you can see how day by day 
 #### Skills:
   - Python 
   - SQL
+  - Power BI
   - Data Mining, Data cleaning
   - Visualization
   - Exploratory Data Analysis
