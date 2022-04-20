@@ -1,8 +1,5 @@
 #### Hi there 👋
 
-
-Welcome to my git page. I´m a newly qualified data scientist.
-
 Here you can find some of my projects. In this space you can see how day by day Im learning new tools and libraries.
 
 #### Skills:
